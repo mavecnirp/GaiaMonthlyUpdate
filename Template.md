@@ -50,7 +50,7 @@
 
 * Regular service maintenance (monthly based)
 
-    * Tellus, Shinra, Midvale, TMPN, Whine
+    * Tellus, Shinra, Midvale, TMPN, Whine, Maven
     * Apply CVE [(Common Vulnerabilities and Exposures)](https://cve.mitre.org/) patches within 24-hr of vendor availability, excluding service freeze period
 
 ***
@@ -87,7 +87,7 @@
 
 # Tellus
 * RD **Festum**, Joyce, Wu-Hsuan, Chiou
-* QA **Andy Yu**
+* QA **Andy Yu**, Jones, Vincent
 * OPS **Jeffery**, Charles
 
 ***
@@ -190,7 +190,7 @@
 
 # Shinra
 * RD **Andy Tzeng**, Kiko, Aimee
-* QA **Andy Yu**, Jones
+* QA **Jones**, Andy Yu, Vincent
 * OPS **Charles**, Caleb
 
 ***
@@ -283,7 +283,7 @@
 
 # Whine
 * RD **Anderson**, Chifeng, Wilson
-* QA **Andy Yu**, Vincent
+* QA **Vincent**, Andy Yu, Jones
 * OPS **Jeffery**, Charles
 
 ***
@@ -377,15 +377,15 @@
 <!-- color: #feffd4 -->
 <!-- font: rockwell -->
 
-# TMPN
+### TMPN
 * RD **Festum**, Joyce, Wu-Hsuan
 * QA **Andy Yu**
-* OPS **Caleb**, Jeffery
+* OPS **Caleb**, Charles
 
-# Midvale
-* RD **Andy Tzeng**, Kiko
-* QA **Andy Yu**
-* OPS **Charles**, Caleb
+### Maven
+* RD **Anderson**, Chifeng
+* QA **Vincent**, Andy Yu, Jones
+* OPS **Caleb**, Charles
 
 ***
 
@@ -444,7 +444,7 @@
 | **Service**     | **Contact**        | **Members**            |
 | --------------- | ------------------ | ---------------------- |
 | Tellus/TMPN     | Festum             | Joyce, Wu-Hsuan, Chiou |
-| Shinra/Midvale  | Andy               | Kiko, Aimee            |
+| Shinra/Midvale  | Andy Tzeng         | Kiko, Aimee            |
 | Whine/Marven    | Anderson           | Chifeng, Wilson        |
 
 > Tellus/TMPN/Shinra/Marven includes SEG
@@ -457,11 +457,11 @@
 
 ### QA Allocation
 
-| **Service**     | **Contact**        | **Members**            |
-| --------------- | ------------------ | ---------------------- |
-| Tellus/TMPN     | --           | -- |
-| Shinra/Midvale  | --           | -- |
-| Whine/Marven    | --           | -- |
+| **Service**     | **Contact**        | **Members**      |
+| --------------- | ------------------ | ---------------- |
+| Tellus/TMPN     | Andy Yu            | Jones, Vincent   |
+| Shinra/Midvale  | Jones              | Andy Yu, Vincent |
+| Whine/Maven     | Vincent            | Andy Yu, Jones   |
 
 > Tellus/TMPN/Shinra/Marven includes SEG
 
@@ -478,7 +478,7 @@
 | Common OPS     | Caleb           | Jeffery         | Charles         |
 | Tellus/Whine   | Jeffery         | Charles         | Caleb           |
 | Shinra/Midvale | Charles         | Caleb           | Jeffery         |
-| TMPN/Marven    | Caleb           | Charles         | Jeffery         |
+| TMPN/Maven     | Caleb           | Charles         | Jeffery         |
 
 > TMPN is in sustain mode
 
