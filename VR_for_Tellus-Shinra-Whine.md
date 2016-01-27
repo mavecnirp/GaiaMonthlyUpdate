@@ -1,9 +1,8 @@
 # Vulnerability Review for Tellus/Shinra/Whine
 
-> Attendees: Jonas, Daniel, Jonah, Tim
-> 
 > Date: 2016/1/27
- 
+>
+> Attendees: Jonas, Daniel, Jonah, Tim
 
 ## Training
 
