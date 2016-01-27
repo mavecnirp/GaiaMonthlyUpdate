@@ -6,14 +6,14 @@
 
 ## Training
 
-* DevOpS Sec training (Feb 24, 26)
+* DevOpS Sec training (Feb 26)
 * Threat Modeling training (Mar 1)
 * Threat Modeling workshop (Mar 2, 3), Shinra is selected
   
 ## Threat Modeling Review
 
 * Shinra (follow up after workshop)
-* Whine (mid of Mar)
+* Whine (Mar 7)
 * Tellus (mid of Apr)
 
 ## Static Code Analysis
