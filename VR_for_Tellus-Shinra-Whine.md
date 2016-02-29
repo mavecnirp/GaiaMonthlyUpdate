@@ -1,20 +1,19 @@
 # Vulnerability Review for Tellus/Shinra/Whine
 
-> Attendees: Jonas, Daniel, Jonah, Tim
-> 
 > Date: 2016/1/27
- 
+>
+> Attendees: Jonas, Daniel, Jonah, Tim
 
 ## Training
 
-* DevOpS Sec training (Feb 24, 26)
+* DevOpS Sec training (Feb 26)
 * Threat Modeling training (Mar 1)
 * Threat Modeling workshop (Mar 2, 3), Shinra is selected
   
 ## Threat Modeling Review
 
 * Shinra (follow up after workshop)
-* Whine (mid of Mar)
+* Whine (Mar 7)
 * Tellus (mid of Apr)
 
 ## Static Code Analysis
